@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Usman
-- 👀 I’m interested in WebDev
-- 🌱 I’m currently learning MERN Stack, and Studying from FAST NUCES.
+- 🌱 I’m doing Bachelors in Computer Science from FAST NUCES.
+- 👀 Wordpress || MERN Stack 
 - 📫 How to reach me, heres my linkdin : www.linkedin.com/in/syed-usman-ali-87b59b22b
 
 <!---
