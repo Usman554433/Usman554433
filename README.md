@@ -13,7 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/syedusmana43680" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syedusmana43680" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/syed-usman-ali-87b59b22b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/syed-usman-ali-87b59b22b" height="30" width="40" /></a>
+<a href="https://fb.com/urusman543" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="urusman543" height="30" width="40" /></a>
 <a href="https://instagram.com/usmanali6291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="usmanali6291" height="30" width="40" /></a>
 </p>
 
