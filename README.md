@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Usman Ali</h1>
-<h3 align="center">Web Developer || Prompt Engineer || BSCS - FAST NUCES '25</h3>
+<h3 align="center">Software Engineer || Data Scientist || BSCS - FAST NUCES '25</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usman554433&label=Profile%20views&color=0e75b6&style=flat" alt="usman554433" /> </p>
 
